@@ -7,7 +7,6 @@
 - Dependencies
   - Python 3.6+
   - PyTorch==1.1
-  - Codes are heavily inspired by [https://joshfeldman.net]
 
 ### Reference
 1. [Averaging Weights Leads to Wider Optima and Better Generalization]
